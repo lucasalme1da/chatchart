@@ -1,4 +1,5 @@
 <h3 align="center">🚧 Under Development! 🚧</h3>
+<p align="center"><a href="http://lucasalme1da.github.io/chatchart">Check Out!</a></p>
 
 #
 
